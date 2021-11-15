@@ -1,5 +1,1 @@
-# C++ 
-one of the good programming languages
- # Machine learning
-# Java
-# Python
+# Technical skills include *c++,Java and Python*. These are my favorites
