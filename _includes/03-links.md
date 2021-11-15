@@ -1,1 +1,1 @@
-https://github.com/shubha237/M1_GAME_QUIZ.git
+[GitHub](https://github.com/shubha237/M1_GAME_QUIZ.git)
