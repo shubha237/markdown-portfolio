@@ -1,4 +1,4 @@
-Burger
-Pizza
-Samosa
-Pasta
+-burger
+-pizza
+-samosa
+-pasta
